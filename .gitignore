@@ -5,3 +5,4 @@ data/*
 core/.DS_Store
 utils/.DS_Store
 config.cpp
+venv

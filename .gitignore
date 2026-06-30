@@ -4,3 +4,4 @@ data/*
 .DS_Store
 core/.DS_Store
 utils/.DS_Store
+config.cpp

@@ -1,0 +1,3 @@
+/*
+This file automates the process of sending the email.
+*/

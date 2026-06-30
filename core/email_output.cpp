@@ -1,0 +1,3 @@
+/*
+This file creates the email that will be sent
+*/

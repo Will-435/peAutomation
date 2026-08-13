@@ -5,11 +5,11 @@ in company matching rather than in the data itself.
 """
 
 from pathlib import Path
+from config import COMPANIES_HOUSE_API_KEY
 
 import pandas as pd
 import requests
 
-COMPANIES_HOUSE_API_KEY = "companies house api key goes here"
 COMPANIES_HOUSE_BASE_URL = "https://api.company-information.service.gov.uk"
 REQUEST_TIMEOUT_SECONDS = 30
 
